@@ -1,3 +1,4 @@
 Template for django-admin.py startproject.
 
 See https://docs.djangoproject.com/en/dev/ref/django-admin/#django-admin-startapp 
+also https://github.com/django/django/tree/master/django/conf/project_template/
